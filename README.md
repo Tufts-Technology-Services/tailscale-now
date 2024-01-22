@@ -1,5 +1,11 @@
 ## Making tailscale a first class citizen at Tufts
 
+<div style="display: flex">
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/aa17782b-a000-4ac2-8f9f-ba12819fcccf" width="200" />
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/261036db-8bb5-4f10-9451-57d987917de7" width="200" />
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/1d451bea-f95d-4762-bd07-46658bb1f57f" width="200" />
+</div>
+
 The purpose of this document is to answer questions to help make [Tailscale](https://tailscale.com/) a first class citizen within the list of components and tools we use at Tufts. We also want to use this repository as a location to introduce Tailscale to other teams to hopefully help them improve their connectivity so they can focus on delivering value faster.
 
 There are many definitions out there about tailscale and most of them try to place it in the VPN type of products. Tailscale is an overlay network (a network on top of the physical network) that increases connectivity by removing some of the burdens introduced over the years in the networking stack, most of them in the name of security. You can also think about Tailscale as the “control plane” for [wireguard](https://www.wireguard.com/) connections (the “data plane”).
