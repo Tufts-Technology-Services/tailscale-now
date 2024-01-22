@@ -5,7 +5,7 @@ Create a [new ticket 🎫](https://github.com/Tufts-Technology-Services/tailscal
 
 # Making tailscale a first class citizen in the Tufts Tool Ecosystem
 
-The purpose of this repository is to facilitate discussions to help [Tailscale](https://tailscale.com/) become a first class tool component at Tufts. We also want to introduce 
+The purpose of this repository is to facilitate discussions to make [Tailscale](https://tailscale.com/) a first class component at Tufts. We also want to introduce 
 Tailscale to other teams to help them assess its utility and potential benefits for their specific requirements.
 
 ### What is Tailscale?
