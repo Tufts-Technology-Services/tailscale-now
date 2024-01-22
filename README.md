@@ -1,6 +1,5 @@
-<div>
-  <img src="[https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/261036db-8bb5-4f10-9451-57d987917de7](https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/2790c3f3-64ee-44b8-935f-124369472e5a)" width="400" />
-</div>
+
+<img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/3ec0658c-0ada-4911-b163-d61573fd2724"/ width="400">
 
 # Making tailscale a first class citizen
 
