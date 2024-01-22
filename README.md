@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/3ec0658c-0ada-4911-b163-d61573fd2724" width="400">
 
-[new 🎫](https://github.com/Tufts-Technology-Services/tailscale-now/issues/new).
+Create a [new 🎫](https://github.com/Tufts-Technology-Services/tailscale-now/issues/new).
 
 # Making tailscale a first class citizen in the Tufts Tool Ecosystem
 
