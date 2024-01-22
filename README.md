@@ -28,7 +28,7 @@ Our [github runners](https://docs.github.com/en/actions/using-github-hosted-runn
 
 #### Security without the churn
 
-We can give access to our users (tailscale users) to our grafana dashboards (or any other resources) without having a second level of authentication. You have already authenticated to the network (the tailnet) so you don’t have to authenticate again when accessing, for example, a grafana dashboard. We can get your identity from the network.
+We can seamlessly grant our Tailscale users access to resources like Grafana dashboards without requiring a secondary authentication step. Once authenticated to the Tailnet, users need not re-authenticate for each resource. Their identity is effectively recognized and verified through the network itself, simplifying access and enhancing user experience.
 
 #### Seamless connectivity
 
