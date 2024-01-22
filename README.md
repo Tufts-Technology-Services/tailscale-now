@@ -39,7 +39,9 @@ We can onboard our consultants immediately by asking them to join our Tailnet (v
 
 ## How can we help?
 
-We want to make sure Tailscale is a first class component in the list of tools available at Tufts for whoever wants to use it. Do you think your Team may benefit from Tailscale? No? That’s ok. Yes? great, please, open an [issue](XXXX) so we can have a discussion to address all the questions you may have. 
+We want to make sure Tailscale is a first class component in the list of tools available at Tufts and it is available to everyone that wants to use it. 
+
+Do you have questions about Tailscale? Do you think your Team may benefit from Tailscale? No? That’s ok. Yes? great, please, open an [issue](XXXX) so we can have discussions to address all the questions you may have. 
 
 Thank you for reading.
 
