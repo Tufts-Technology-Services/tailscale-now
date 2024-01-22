@@ -10,7 +10,9 @@ Tailscale to other teams to help them assess its utility and potential benefits 
 
 ### What is Tailscale?
 
-There are many definitions out there about tailscale and most of them frame it within the context of VPNs. It is much more than that. Tailscale is an overlay network (a network on top of the physical network) that increases connectivity by removing some of the burdens introduced over the years in the networking stack (most of them in the name of security). You can also think about Tailscale as the “control plane” for [Wireguard](https://www.wireguard.com/) connections (data plane). If you want a detailed explanation of what Tailscale is and how it works, please read [this document](https://tailscale.com/blog/how-tailscale-works). 
+There are many definitions out there about tailscale and most of them frame it within the context of VPNs. It is much more than that. Tailscale is an overlay network, essentially a network built on top the existing physical network infrastructure. Its primary role is to enhance connectivity by alleviating various complexities that have accumulated in the networking stack over the years, many of which were implemented for security purposes.
+
+You can also think about Tailscale as the “control plane” for [Wireguard](https://www.wireguard.com/) connections (data plane). If you want a detailed explanation of what Tailscale is and how it works, please read [this document](https://tailscale.com/blog/how-tailscale-works). 
 
 ### How do we use it in my team (data strategy)?
 
