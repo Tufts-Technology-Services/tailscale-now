@@ -1,7 +1,7 @@
 <div>
-  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/aa17782b-a000-4ac2-8f9f-ba12819fcccf" width="100" />
-  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/261036db-8bb5-4f10-9451-57d987917de7" width="100" />
-  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/1d451bea-f95d-4762-bd07-46658bb1f57f" width="100" />
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/aa17782b-a000-4ac2-8f9f-ba12819fcccf" width="200" />
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/261036db-8bb5-4f10-9451-57d987917de7" width="200" />
+  <img src="https://github.com/Tufts-Technology-Services/tailscale-now/assets/17954/1d451bea-f95d-4762-bd07-46658bb1f57f" width="200" />
 </div>
 
 # Making tailscale a first class citizen
