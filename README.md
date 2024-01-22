@@ -6,9 +6,9 @@
 
 # Making tailscale a first class citizen
 
-The purpose of this repository is to help answer questions to help make [Tailscale](https://tailscale.com/) a first class citizen 
-within the list of components and tools we use at Tufts. We also want to use this repository to introduce 
-Tailscale to other teams and see if it can help them on their daily activities.
+The purpose of this repository is to capture discussions to help [Tailscale](https://tailscale.com/) become a first class citizen 
+within the list of components we use at Tufts. We also want to use this repository to introduce 
+Tailscale to other teams to help them determine if it can be beneficial for them.
 
 ### What is Tailscale?
 
